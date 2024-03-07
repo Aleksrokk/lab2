@@ -1,6 +1,6 @@
 #include <SPI.h>
 
-enum { REG_LATCH_595 = 9, REG_LATCH_165 = 8 }; // Пины управления чип-выбором для регистров
+enum { REG_LATCH_595 = 9, REG_LATCH_165 = 8 }; 
 
 void setup()
 {
